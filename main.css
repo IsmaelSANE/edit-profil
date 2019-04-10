@@ -1,0 +1,16 @@
+/* HEADER STYLES */
+nav .navbar-collapse .navbar-nav .vertical-line {
+  padding-left: 1em; }
+  nav .navbar-collapse .navbar-nav .vertical-line > a {
+    color: silver; }
+  nav .navbar-collapse .navbar-nav .vertical-line:before {
+    content: "|"; }
+
+/* VERTICAL NAV STYLES */
+ .container-fluid .row .vertical-nav {
+  background-color: #004f7d; }
+
+/* NAV BODY STYLES */
+.nav .slash:before {
+    content: "/"; }
+
